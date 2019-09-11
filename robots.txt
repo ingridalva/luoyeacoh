@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaikainge.philiptomlinson.co.uk/sitemap.xml
